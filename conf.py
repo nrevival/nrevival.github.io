@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "John Park"  # (translatable)
-BLOG_TITLE = "nrevival.github.io"  # (translatable)
+BLOG_TITLE = "A Fine Dining"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://nrevival.github.io/"
@@ -25,7 +25,7 @@ SITE_URL = "https://nrevival.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://nrevival.github.io/"
 BLOG_EMAIL = "nrevival@gmail.com"
-BLOG_DESCRIPTION = "니콜라로 만들어보는 깃헙 블로그"  # (translatable)
+BLOG_DESCRIPTION = "Blog on Github"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -88,7 +88,7 @@ BLOG_DESCRIPTION = "니콜라로 만들어보는 깃헙 블로그"  # (translata
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "ko"
+DEFAULT_LANG = "en"
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
@@ -136,9 +136,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "저장소"),
-        ("/categories/", "태그"),
-        ("/rss.xml", "RSS 목록"),
+        ("/archive.html", "Archive"),
+        ("/categories/", "Tags"),
+        ("/rss.xml", "RSS Feed"),
     ),
 }
 
@@ -150,7 +150,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "hyde"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
