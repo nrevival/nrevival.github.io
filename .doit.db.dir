@@ -99,7 +99,7 @@
 'render_taxonomies:output/categories/teseuteu.xml', (82432, 540)
 'render_pages:output/posts/test/index.html', (129536, 8988)
 'copy_assets:output/assets/css/bootblog.css', (91136, 470)
-'sitemap:output/sitemap.xml', (91648, 1632)
+'sitemap:output/sitemap.xml', (91648, 1633)
 'render_taxonomies:output/categories/teseuteu/index.html', (94720, 2472)
 'create_bundles:output/assets/css/all-nocdn.css', (97280, 1070)
 'render_taxonomies:output/index.html', (142848, 8486)
