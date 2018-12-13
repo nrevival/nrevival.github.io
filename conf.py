@@ -25,7 +25,7 @@ SITE_URL = "https://nrevival.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://nrevival.github.io/"
 BLOG_EMAIL = "nrevival@gmail.com"
-BLOG_DESCRIPTION = "Blog on Github"  # (translatable)
+BLOG_DESCRIPTION = "John's Blog on Github"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -137,7 +137,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
+        ("/categories/", "Tags and Categories"),
         ("/rss.xml", "RSS Feed"),
     ),
 }
