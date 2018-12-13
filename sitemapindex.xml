@@ -6,15 +6,35 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://nrevival.github.io/categories/cat_general-general2.xml</loc>
+  <lastmod>2018-12-13T13:01:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nrevival.github.io/categories/cat_general.xml</loc>
+  <lastmod>2018-12-13T13:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nrevival.github.io/categories/jekyll.xml</loc>
+  <lastmod>2018-12-13T13:01:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nrevival.github.io/categories/nikola.xml</loc>
+  <lastmod>2018-12-13T13:01:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nrevival.github.io/categories/teseuteu.xml</loc>
+  <lastmod>2018-12-13T12:54:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://nrevival.github.io/galleries/rss.xml</loc>
-  <lastmod>2018-12-12T14:34:00Z</lastmod>
+  <lastmod>2018-12-13T01:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nrevival.github.io/rss.xml</loc>
-  <lastmod>2018-12-12T14:34:00Z</lastmod>
+  <lastmod>2018-12-13T13:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nrevival.github.io/sitemap.xml</loc>
-  <lastmod>2018-12-12T14:34:00Z</lastmod>
+  <lastmod>2018-12-13T13:03:00Z</lastmod>
  </sitemap>
 </sitemapindex>

@@ -7,30 +7,58 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://nrevival.github.io/</loc>
-  <lastmod>2018-12-12T14:34:00Z</lastmod>
+  <lastmod>2018-12-13T01:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/2018/</loc>
-  <lastmod>2018-12-12T14:34:00Z</lastmod>
+  <lastmod>2018-12-13T01:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/archive.html</loc>
-  <lastmod>2018-12-12T14:34:00Z</lastmod>
+  <lastmod>2018-12-13T13:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/</loc>
-  <lastmod>2018-12-12T14:34:00Z</lastmod>
+  <lastmod>2018-12-13T13:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/categories/cat_general-general2/</loc>
+  <lastmod>2018-12-13T13:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/categories/cat_general/</loc>
+  <lastmod>2018-12-13T12:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/categories/jekyll/</loc>
+  <lastmod>2018-12-13T13:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/categories/nikola/</loc>
+  <lastmod>2018-12-13T12:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/categories/teseuteu/</loc>
+  <lastmod>2018-12-13T01:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/galleries/</loc>
-  <lastmod>2018-12-12T14:34:00Z</lastmod>
+  <lastmod>2018-12-13T01:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/listings/</loc>
-  <lastmod>2018-12-12T14:34:00Z</lastmod>
+  <lastmod>2018-12-13T01:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/posts/gwayeon-eoneujeongdo/</loc>
+  <lastmod>2018-12-13T01:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/posts/test/</loc>
-  <lastmod>2018-12-12T14:34:00Z</lastmod>
+  <lastmod>2018-12-13T01:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/posts/trans-to-nikola/</loc>
+  <lastmod>2018-12-13T12:54:00Z</lastmod>
  </url>
 </urlset>
