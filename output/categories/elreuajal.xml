@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Fine Dining (Posts about General)</title><link>https://nrevival.github.io/</link><description></description><atom:link href="https://nrevival.github.io/categories/cat_general.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:nrevival@gmail.com"&gt;John Park&lt;/a&gt; </copyright><lastBuildDate>Thu, 13 Dec 2018 13:17:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>니콜라로 갈아타기</title><link>https://nrevival.github.io/posts/trans-to-nikola/</link><dc:creator>John Park</dc:creator><description>&lt;div&gt;&lt;p&gt;맨날 글은 안쓰고 블로그 프레임 바꾸는 이상한 버릇이 있는데 그 결과로 나온 페이지가 바로 님께서 보시는 이 페이지입니다. 홈페이지를 직접 만들겠다고 깝치던 상황 중고등학교 시절을 지나 싸이월드 찌그럭찌그럭, 페이스북과 티스토리를 돌아 github까지. &lt;/p&gt;
-&lt;p&gt;처음엔 남들 다 쓰는 &lt;a href="https://jekyllrb.com/"&gt;Jekyll&lt;/a&gt;을 썼지만 내 모든 환경에 루비를 깔긴 너무 싫기도 하고 귀찮기도 해서 그나마 잘 아는 python기반의 정적 사이트 빌더를 찾아보았고 그것이 바로 &lt;a href="https://getnikola.com/"&gt;Nikola&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;물론 이렇게 만드는데 모든 힘을 다 쏟았기 때문에 얼마나 더 열심히 글을 남길지는 잘 모르겠다만, github 블로그를 다시 만들며 생각했던 다짐을 옮기며.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;아마 내가 처음으로 홈페이지를 만든 때는 98-99년 중에 어느 때였던 것 같다.
-당시 나우누리에서는 모든 계정 소유자에게 웹 호스팅 용량을 10MB정도 주었고,
-나모웹에디터를 이용해서 당시 좋아하던 &lt;a href="https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%9A%A9%EC%82%BC"&gt;제용삼&lt;/a&gt; 팬클럽 페이지를 만들었었다.
-딱히 팬 페이지라고 부르기는 부끄러웠는데, 게시판도 없었고 다만 cgi를 이용한 방문자 카운터 정도를 집어넣은 게 전부긴 했었다.
-당시만해도 인터넷 과도기 즈음이라 모뎀 비중이 인터넷 전용망보단 높았을 꺼고, 인터넷보다는 PC통신이라 불리는 bbs를 쓰는 사람이 많았던 것 같다.
-그떄의 축구 서포터들도 하이텔이다 유니텔이다 사람들이 다 나뉘어 활동했으니 이 사람들이 다 같이 모일 수 있다는 인터넷은 정말로 혁명적인 개념으로 느껴졌고, 나름 뭐라도 해보고 싶다는 생각에서 할 수 있는 게 그게 최선이 아니었나 한다.&lt;/p&gt;
-&lt;p&gt;그러다 고등학교에 진학하고, 학급 나름의 커뮤니티를 구축하는 것이 이슈였는데, Daum, iloveschool, damoim 정도가 주로 사용하는 커뮤니티였다. 다니던 학교에는 정보부장이라는 이상한 직책이 있었는데 이들의 임무가 바로 그 커뮤니티를 확보하는 것이었다. 무슨 호기에서인지 정보부장이 있었음에도 내 개인 홈페이지를 만들었고 (게시판은 지금은 사라진 네띠앙의 호스팅 서비스를 이용해서) 정보부장의 iloveschool의 커뮤니티와 경쟁하여 서비스 승리를 쟁취했었다. (뭐 해당 사이트 서버가 느려서 거저 얻은 승리이긴 하지만) 2학기때 바뀐 정보부장은 친했던 관계로 1학기만의 서비스 주도이긴 하지만.&lt;/p&gt;
-&lt;p&gt;그 후 프리챌, 싸이월드 등의 커뮤니티가 꾸준히 생겼지만 개인 홈페이지에 원하는 정보를 게시하겠다는 쓸데없는 고집을 부리다가 대학교 가며 미니홈피를 했고, 블로그 열풍에는 귀찮다는 이유로 싸이홈2-블로그서비스-를 이용했다. 어느 순간 페북으로 흐름이 넘어간 뒤에는 티스토리를 잠깐 해봤으나 글을 꾸준하게 쓰지 못해서 실패.&lt;/p&gt;
-&lt;p&gt;나이가 들어서인지 바뻐서인지 SNS 중독이 되어 그런지 긴 흐름의 글을 안 쓰다보니 더 못쓰게 되는 것 같고. 생각하고 글 쓰고 하는 게 좋은데 결과적으로 그 일을 못하는 것 같아 더 늦기전에 시작한다. 물론 그 일로 깃헙 블로그를 만들 생각을 한 것은 아니고 브런치 작가 신청을 했는데 뻰찌를 맞아서 빡친 마음에 이렇게.&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;생각하는대로 살지 않으면,
-사는대로 생각하게 된다.
-&lt;/pre&gt;&lt;/div&gt;</description><category>Jekyll</category><category>Nikola</category><guid>https://nrevival.github.io/posts/trans-to-nikola/</guid><pubDate>Thu, 13 Dec 2018 01:42:48 GMT</pubDate></item><item><title>하나님, 진정한 효심이 있다면 삼겹살은 드시지 마시오.</title><link>https://nrevival.github.io/posts/hyoja/</link><dc:creator>John Park</dc:creator><description>&lt;div&gt;&lt;p&gt;지난 Jekyll기반에 올라온 글을 재업로드&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Fine Dining (Posts about 엘르아잘)</title><link>https://nrevival.github.io/</link><description></description><atom:link href="https://nrevival.github.io/categories/elreuajal.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:nrevival@gmail.com"&gt;John Park&lt;/a&gt; </copyright><lastBuildDate>Thu, 13 Dec 2018 13:17:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>하나님, 진정한 효심이 있다면 삼겹살은 드시지 마시오.</title><link>https://nrevival.github.io/posts/hyoja/</link><dc:creator>John Park</dc:creator><description>&lt;div&gt;&lt;p&gt;지난 Jekyll기반에 올라온 글을 재업로드&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;개신교 전통에만 속해있던 나에게 마카베오서는 참 낯설다. 그래서 무언가 다른 성서의 책들보다 상당히 재미있게 읽히는데, 어제, 오늘의 성서정과는 정말로 새롭고 재밌었다.&lt;/p&gt;
 &lt;h5&gt;2017년 11월 21일 화요일 제1독서, 마카베오하 6;18-31&lt;/h5&gt;
