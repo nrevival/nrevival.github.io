@@ -16,3 +16,5 @@ nikola github_deploy
 
 [pipenv 가상환경 설명](https://graspthegist.com/post/python-pipenv/)
 [Blog글](https://partrita.github.io/posts/nikola-for-jupyer-blog/)
+
+수정 잘 되는가?
