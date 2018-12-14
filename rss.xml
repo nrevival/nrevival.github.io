@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Fine Dining</title><link>https://nrevival.github.io/</link><description>John's Blog on Github</description><atom:link href="https://nrevival.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:nrevival@gmail.com"&gt;John Park&lt;/a&gt; </copyright><lastBuildDate>Thu, 13 Dec 2018 13:17:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>니콜라로 갈아타기</title><link>https://nrevival.github.io/posts/trans-to-nikola/</link><dc:creator>John Park</dc:creator><description>&lt;div&gt;&lt;p&gt;맨날 글은 안쓰고 블로그 프레임 바꾸는 이상한 버릇이 있는데 그 결과로 나온 페이지가 바로 님께서 보시는 이 페이지입니다. 홈페이지를 직접 만들겠다고 깝치던 상황 중고등학교 시절을 지나 싸이월드 찌그럭찌그럭, 페이스북과 티스토리를 돌아 github까지. &lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Fine Dining</title><link>https://nrevival.github.io/</link><description>John's Blog on Github</description><atom:link href="https://nrevival.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:nrevival@gmail.com"&gt;John Park&lt;/a&gt; </copyright><lastBuildDate>Fri, 14 Dec 2018 14:24:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>멀리서 보면 희극</title><link>https://nrevival.github.io/posts/comedy-in-long-shot/</link><dc:creator>John Park</dc:creator><description>&lt;div&gt;&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;인생은 가까이서 보면 비극이지만, 
+멀리서 보면 희극이다.
+Life is a tragedy when seen in close-up, 
+but a comedy in long-shot.
+
+- 찰리 채플린 Charlie Chaplin
+&lt;/pre&gt;
+
+
+&lt;p&gt;찰리 채플린이 남겼다는 이 말을 다시금 곱씹어 보는 계기가 된 한장의 사진. 100m 상공의 드론에서 찍은 사진, 그 사진 좌하단에 위치한 나무 근처에 서있는 3명의 사람 중 하나가 나다. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="195_rev" src="https://user-images.githubusercontent.com/8993099/50007289-cb6f3980-fff3-11e8-9a6f-e3ecc5e0f8c7.png"&gt;&lt;/p&gt;
+&lt;p&gt;나름의 기대를 하고 손가락으로 v자도 만들어보고 예쁜 표정을 보였으나 이론상 그 고도에서 우리 가진 카메라로는 기껏해야 한 픽셀은 4-5cm를 그리는 것에 불과하다. 그러니 손가락 하나 각도 잘 맞아야 한 픽셀로밖에 표현 되지 않는 상황에서 그게 다 무슨 의미인가.&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;100m 밖에서 한 눈 감고 깽깽이하고 보면 원빈/이나영 닮았어. 
+(근데 깽깽이는 왜 해야하지?)
+&lt;/pre&gt;
+
+
+&lt;p&gt;그래. 그것은 대학교 때 웃자고 했던 이야기와 같은 상황이다. 이재용이 서 있든지 문재인이든 트럼프든 트와이스든 누구든 저 거리는 기껏해야 10px이다. 땅에 발을 딛고 서있는 사람이 어떠함에 상관없이 볼 수 있는 거리. 저 즈음에서 나를, 내 인생을 보면 조금은 의연할 수 있지 않겠는가.&lt;/p&gt;
+&lt;p&gt;다만 그림자는 늘어졌구나. 태양이 가장 높이 떴다는 시간임에도 내 됨됨이 보다 더 커보일 수는 있겠구나. 그러니 그리 보이는 것에 우쭐대지 말고 좀 아름다운, 향기로운 자국을 남기고 살자.&lt;/p&gt;&lt;/div&gt;</description><category>comedy</category><guid>https://nrevival.github.io/posts/comedy-in-long-shot/</guid><pubDate>Fri, 14 Dec 2018 13:46:34 GMT</pubDate></item><item><title>니콜라로 갈아타기</title><link>https://nrevival.github.io/posts/trans-to-nikola/</link><dc:creator>John Park</dc:creator><description>&lt;div&gt;&lt;p&gt;맨날 글은 안쓰고 블로그 프레임 바꾸는 이상한 버릇이 있는데 그 결과로 나온 페이지가 바로 님께서 보시는 이 페이지입니다. 홈페이지를 직접 만들겠다고 깝치던 상황 중고등학교 시절을 지나 싸이월드 찌그럭찌그럭, 페이스북과 티스토리를 돌아 github까지. &lt;/p&gt;
 &lt;p&gt;처음엔 남들 다 쓰는 &lt;a href="https://jekyllrb.com/"&gt;Jekyll&lt;/a&gt;을 썼지만 내 모든 환경에 루비를 깔긴 너무 싫기도 하고 귀찮기도 해서 그나마 잘 아는 python기반의 정적 사이트 빌더를 찾아보았고 그것이 바로 &lt;a href="https://getnikola.com/"&gt;Nikola&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;물론 이렇게 만드는데 모든 힘을 다 쏟았기 때문에 얼마나 더 열심히 글을 남길지는 잘 모르겠다만, github 블로그를 다시 만들며 생각했던 다짐을 옮기며.&lt;/p&gt;
 &lt;hr&gt;
@@ -56,5 +74,4 @@
 &lt;p&gt;하나님께서는 장신대 엠디브를 받으시고 그 좋다는 프린스턴 신학교에서 Th.M. 드류 대학에서 Ph.D.를 받으며 대형교회 목사로 부족함이 없는 경력을 쌓으셨다. 그 하나님께서 한국에 오실때, 다들 이제 명성을 하나님께서 맡으시겠지라고 생각을 했었으나 하나님께서는 친히 '나는 세습을 하지 않겠소!' 라고 말씀하셔서 뭇 사람들이 감동을 받았더랬다. 더욱이 하나님께서는 미국 복음주의라고 말하기엔 상당히 진보적인 잡지 '소저너스'에 대한 이야기를 박사 논문으로 쓰셨기에 '한번 그 분을 믿어봐도 되지 않을까' 하는 일말의 기대가 있었다. 정확한 시점은 기억이 나지않는데 '새노래명성교회'라는 자회사 증여 사건에 대해 하나님께서는 '복음주의 클럽' 페이스북에 친히 본인을 현현하시어 '나는 정말 레알 에바 세바 참치 꽁치 세습 노노함, 지켜봐주셈' 이라고 말했던지라 이상하긴 했어도 하나님의 진심을 믿으려 했었다. 그러나 노회고 교단이고 모든 것을 파국으로 이끌는 암흑의 장로들에게 주화입마했는지, 어쩌면 그 장로 뒤에 계시는 지극히 높은 보좌와 그 위에 앉으신 사뫈님의 뜻이 이루어지려 했던 것인지 하나님은 그 분의 말씀에 배반하는 행동을 하시고야 마셨던 것이다. 이것이 최근까지의 이야기.&lt;/p&gt;
 &lt;p&gt;개인적으로 나는 '하나님'이 정말 세습을 하고 싶고 높은 곳에 올라 이 세상을 다스리고 싶은 사람이라고는 전혀 생각하지 않는다. (쓸데없는 소리지만 나는 그런 기회가 있다면 반드시 잡을 것이다. 태킷이지) 박사논문 주제라든가 혹은 페이스북 클럽에서 보여줬던 그 모습의 진실함을 나는 믿는다. 다만 그가 처한 환경은 자신의 이상을 펴기 어려운 구조였을 것이다. 그는 훌륭한 목사요 신학 전공자이긴 하지만 가부장제에서는 나약한 아들일 수도 혹은 천성이 착해 남의 부탁들 잘 못 거절하는 착한 아들이기도 할테니. 또 그 부모가 앞서 본 7형제의 어머니나 조마리아 여사처럼 '너 죽어라'를 말하는 게 아니라 '조금만 비굴하면 강동구가 네 땅이다' '넓은 땅을 차지하여 "하나님"의 나라를 이뤄라' 는 달콤한 말을 던지는 데 사람이라면 인지상정 솔깃한게 맞지. 뭐 또 그 당회장님도 이해가 안 가는 것은 아닌 것이 옆동네인 사랑의 교회를 보면 기껏 뽑아놨더니 그 지랄을 하는 걸 보면 차라리 아들 놈이 낫겠다는 생각을 해서인지 자회사 증여로 끝내려던 일을 기어코 한 것이 아닌가 생각도 든다. &lt;/p&gt;
 &lt;p&gt;뭐 이런저런 이유에서 나는 하나님이 참 불쌍하다. 하나님보다 당회장님이 더 쎈 작금의 한국교회의 현실이 참으로 블랙코미디가 아닐 수 없구나. 다만 그 블랙코미디를 끝내는 것은, 물론 어렵고 불가능에 가까워 보이지만, 다른 이들이 막을 내려주기 전에 하나님께서 직접 돼지고기를 뱉으셨으면 하는 바람이다. 그것은 어쩌면 "하나님"을 보러 갈 시간이 얼마 남지 않은 당회장님에게 하나님이 하실 수 있는 진정한 효도 아니겠는가.&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;하나님, 제가 호주산 척아이롤 구워드릴게 삼겹살은 드시지 맙시다 그려.
-&lt;/pre&gt;&lt;/div&gt;</description><category>김삼환</category><category>김하나</category><category>마카베오</category><category>명성교회</category><category>삼겹살</category><category>엘르아잘</category><category>척아이롤</category><category>하나님</category><guid>https://nrevival.github.io/posts/hyoja/</guid><pubDate>Tue, 21 Nov 2017 23:00:00 GMT</pubDate></item></channel></rss>
+&lt;h5&gt;하나님, 제가 호주산 척아이롤 구워드릴게 삼겹살은 드시지 맙시다 그려.&lt;/h5&gt;&lt;/div&gt;</description><category>김삼환</category><category>김하나</category><category>마카베오</category><category>명성교회</category><category>삼겹살</category><category>엘르아잘</category><category>척아이롤</category><category>하나님</category><guid>https://nrevival.github.io/posts/hyoja/</guid><pubDate>Tue, 21 Nov 2017 23:00:00 GMT</pubDate></item></channel></rss>
