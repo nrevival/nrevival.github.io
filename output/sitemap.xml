@@ -7,106 +7,118 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://nrevival.github.io/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/2017/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/2018/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/archive.html</loc>
-  <lastmod>2018-12-20T13:55:00Z</lastmod>
+  <lastmod>2019-01-15T22:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/cat_books/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/cat_general/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/categories/cat_instagram/</loc>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/ceogairol/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/comedy/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/elreuajal/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/gimhana/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/gimsamhwan/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/hananim/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/jekyll/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/julriakaje/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/makabeo/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/midieoguhagi/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/myeongseonggyohoe/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/nikola/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/piketi/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/piketiyi_yeonin/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/samgyeobsal/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/galleries/</loc>
+  <lastmod>2019-01-15T15:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/listings/</loc>
+  <lastmod>2019-01-15T15:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/posts/comedy-in-long-shot/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/posts/hyoja/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/posts/sauve-media/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/posts/trans-to-nikola/</loc>
-  <lastmod>2018-12-20T13:51:00Z</lastmod>
+  <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
 </urlset>

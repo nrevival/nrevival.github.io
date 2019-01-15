@@ -3,7 +3,7 @@
 .. slug: comedy-in-long-shot
 .. date: 2018-12-14 22:46:34 UTC+09:00
 .. tags: comedy
-.. category: General
+.. category: Instagram
 .. link: https://www.instagram.com/p/BrXtqRUhLGB/
 .. description: 
 .. type: text

@@ -16,8 +16,8 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "John Park"  # (translatable)
-BLOG_TITLE = "A Fine Dining"  # (translatable)
+BLOG_AUTHOR = "John Jonghyuck Park"  # (translatable)
+BLOG_TITLE = "blog"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://nrevival.github.io/"
@@ -25,7 +25,7 @@ SITE_URL = "https://nrevival.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://nrevival.github.io/"
 BLOG_EMAIL = "nrevival@gmail.com"
-BLOG_DESCRIPTION = "John's Blog on Github"  # (translatable)
+BLOG_DESCRIPTION = "아무말 대잔치"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -135,12 +135,13 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          else they won’t be highlighted when active.
 
 NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags and Categories"),
-        ("/rss.xml", "RSS Feed"),
-    ),
-}
+        DEFAULT_LANG: (
+            ("/index.html", "Home"),
+            ("/archive.html", "Archives"),
+            ("/categories/index.html", "Tags"),
+            ("/rss.xml", "RSS feed"),
+        ),
+    }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
@@ -150,8 +151,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-#THEME = "hyde"
-THEME = "libretto"
+THEME = "bootblog"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -214,18 +214,15 @@ THEME_CONFIG = {
 #         ("pages/*.md", {"en": "pages", "de": "seiten"}, "page.tmpl"),
 #     )
 
-
 POSTS = (
     ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.ipynb", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "pages", "page.tmpl"),
     ("pages/*.md", "pages", "page.tmpl"),
-    ("pages/*.ipynb", "pages", "page.tmpl"),
     ("pages/*.txt", "pages", "page.tmpl"),
     ("pages/*.html", "pages", "page.tmpl"),
 )
@@ -963,12 +960,12 @@ RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 # systems.  The following comment systems are supported by Nikola:
 #   disqus, facebook, intensedebate, isso, livefyre, muut
 # You can leave this option blank to disable comments.
-COMMENT_SYSTEM = "facebook"
+COMMENT_SYSTEM = "disqus"
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "1591793740890506"
+COMMENT_SYSTEM_ID = "nrevival"
 
 # Create index.html for page folders?
 # WARNING: if a page would conflict with the index file (usually
@@ -1339,7 +1336,24 @@ WARN_ABOUT_TAG_METADATA = False
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {'blog_sidebar': """\
+    <div class="sidebar-module sidebar-module-inset">
+      <h4>About</h4>
+      <p>python 정적 사이트 빌더인 nikola를 바탕으로 만들어진 블로그입니다. 
+      디자인은 영어 환경에 맞추어진 테마를 그대로 가져다가 써서 미려하지는 않네요. 
+      시간을 두고 고쳐나갈 생각입니다.</p>
+    </div>
+    <div class="sidebar-module">
+      <h4>Links</h4>
+      <ol class="list-unstyled">
+        <li><a href="http://getbootstrap.com/examples/blog/">Bootstrap Blog Theme</a></li>
+        <li><a href="https://getnikola.com/">Nikola</a></li>
+        <li><a href="https://twitter.com/mdo">@mdo</a></li>
+        <li><a href="https://twitter.com/Kwpolska">@Kwpolska</a></li>
+        <li><a href="https://twitter.com/GetNikola">@GetNikola</a></li>
+      </ol>
+    </div>
+    """}
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
