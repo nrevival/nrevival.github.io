@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "John Jonghyuck Park"  # (translatable)
-BLOG_TITLE = "blog"  # (translatable)
+BLOG_TITLE = "A Fine Dining"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://nrevival.github.io/"
@@ -1340,9 +1340,7 @@ WARN_ABOUT_TAG_METADATA = False
 GLOBAL_CONTEXT = {'blog_sidebar': """\
     <div class="sidebar-module sidebar-module-inset">
       <h4>About</h4>
-      <p>python 정적 사이트 빌더인 nikola를 바탕으로 만들어진 블로그입니다. 
-      디자인은 영어 환경에 맞추어진 테마를 그대로 가져다가 써서 미려하지는 않네요. 
-      시간을 두고 고쳐나갈 생각입니다.</p>
+      <p>블로그 이름이 fine dining인 이유는 brunch 작가에서 떨어져서 기분 상해 만들었기 때문은 아니라고 변명해본다.</p>
     </div>
     <div class="sidebar-module">
       <h4>Links</h4>

@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://nrevival.github.io/</loc>
-  <lastmod>2019-01-15T15:23:00Z</lastmod>
+  <lastmod>2019-01-20T00:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/2017/</loc>
@@ -18,16 +18,28 @@
   <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nrevival.github.io/2019/</loc>
+  <lastmod>2019-01-20T00:02:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nrevival.github.io/archive.html</loc>
-  <lastmod>2019-01-15T22:45:00Z</lastmod>
+  <lastmod>2019-01-20T00:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/</loc>
-  <lastmod>2019-01-15T15:23:00Z</lastmod>
+  <lastmod>2019-01-20T00:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/cat_books/</loc>
   <lastmod>2019-01-15T15:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/categories/cat_game-market/</loc>
+  <lastmod>2019-01-20T00:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/categories/cat_game/</loc>
+  <lastmod>2019-01-20T00:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/categories/cat_general/</loc>
@@ -62,6 +74,14 @@
   <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nrevival.github.io/categories/honbab/</loc>
+  <lastmod>2019-01-20T00:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/categories/hwanggyoig/</loc>
+  <lastmod>2019-01-20T00:01:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nrevival.github.io/categories/jekyll/</loc>
   <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
@@ -86,6 +106,10 @@
   <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nrevival.github.io/categories/obeoweoci/</loc>
+  <lastmod>2019-01-20T00:06:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nrevival.github.io/categories/piketi/</loc>
   <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
@@ -96,6 +120,10 @@
  <url>
   <loc>https://nrevival.github.io/categories/samgyeobsal/</loc>
   <lastmod>2019-01-15T15:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/categories/seodeuneotaeg2/</loc>
+  <lastmod>2019-01-20T00:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/galleries/</loc>
@@ -110,8 +138,16 @@
   <lastmod>2019-01-15T15:23:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nrevival.github.io/posts/honbapler/</loc>
+  <lastmod>2019-01-20T00:01:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nrevival.github.io/posts/hyoja/</loc>
   <lastmod>2019-01-15T15:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nrevival.github.io/posts/korean-game-market-story-1/</loc>
+  <lastmod>2019-01-20T00:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://nrevival.github.io/posts/sauve-media/</loc>
