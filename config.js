@@ -1,33 +1,34 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
-  disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  url: 'https://nrevival.github.io/',
+  title: 'A Fine Dining',
+  subtitle: '이것은 나으 아무말 대잔치',
+  copyright: '2019 John Jonghyuck Park, powered by gatsby',
+  disqusShortname: 'nrevival',
+  postsPerPage: 3,
+  googleAnalyticsId: 'UA-142315289-1',
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
+    // ,
+    // {
+    //   label: 'Contact',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: '박종혁John',
+    photo: '/profile.jpg',
+    bio: '나님의 아무말 대잔치',
     contacts: {
-      email: '#',
+      email: 'nrevival@gmail.com',
       telegram: '#',
       twitter: '#',
       github: '#',
