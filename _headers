@@ -71,22 +71,14 @@
   Link: </1-aaab7363688d4f93c204.js>; rel=preload; as=script
   Link: </3-90d42b0b16630e22053a.js>; rel=preload; as=script
   Link: </component---src-templates-categories-list-template-js-fce33bf8dc0dd2130922.js>; rel=preload; as=script
-/pages/contacts/
+/pages/about/
   Link: </webpack-runtime-644e9ed042ca601b2f3d.js>; rel=preload; as=script
   Link: </styles-5ea5574d2a7da3b20797.js>; rel=preload; as=script
   Link: </app-f7a5fc4485c0e19febb6.js>; rel=preload; as=script
   Link: </styles-5ea5574d2a7da3b20797.js>; rel=preload; as=script
   Link: </1-aaab7363688d4f93c204.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-37a023f4bdd08eab36e2.js>; rel=preload; as=script
-/posts/trans-to-nikola/
-  Link: </webpack-runtime-644e9ed042ca601b2f3d.js>; rel=preload; as=script
-  Link: </styles-5ea5574d2a7da3b20797.js>; rel=preload; as=script
-  Link: </app-f7a5fc4485c0e19febb6.js>; rel=preload; as=script
-  Link: </styles-5ea5574d2a7da3b20797.js>; rel=preload; as=script
-  Link: </1-aaab7363688d4f93c204.js>; rel=preload; as=script
-  Link: </2-87f46b71c7b0c1ab3d60.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-ca9585b7b0942f790425.js>; rel=preload; as=script
-/posts/hyoja/
+/posts/sauve-media/
   Link: </webpack-runtime-644e9ed042ca601b2f3d.js>; rel=preload; as=script
   Link: </styles-5ea5574d2a7da3b20797.js>; rel=preload; as=script
   Link: </app-f7a5fc4485c0e19febb6.js>; rel=preload; as=script
@@ -110,7 +102,7 @@
   Link: </1-aaab7363688d4f93c204.js>; rel=preload; as=script
   Link: </2-87f46b71c7b0c1ab3d60.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-ca9585b7b0942f790425.js>; rel=preload; as=script
-/posts/sauve-media/
+/posts/trans-to-nikola/
   Link: </webpack-runtime-644e9ed042ca601b2f3d.js>; rel=preload; as=script
   Link: </styles-5ea5574d2a7da3b20797.js>; rel=preload; as=script
   Link: </app-f7a5fc4485c0e19febb6.js>; rel=preload; as=script
@@ -118,13 +110,21 @@
   Link: </1-aaab7363688d4f93c204.js>; rel=preload; as=script
   Link: </2-87f46b71c7b0c1ab3d60.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-ca9585b7b0942f790425.js>; rel=preload; as=script
-/pages/about/
+/pages/contacts/
   Link: </webpack-runtime-644e9ed042ca601b2f3d.js>; rel=preload; as=script
   Link: </styles-5ea5574d2a7da3b20797.js>; rel=preload; as=script
   Link: </app-f7a5fc4485c0e19febb6.js>; rel=preload; as=script
   Link: </styles-5ea5574d2a7da3b20797.js>; rel=preload; as=script
   Link: </1-aaab7363688d4f93c204.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-37a023f4bdd08eab36e2.js>; rel=preload; as=script
+/posts/hyoja/
+  Link: </webpack-runtime-644e9ed042ca601b2f3d.js>; rel=preload; as=script
+  Link: </styles-5ea5574d2a7da3b20797.js>; rel=preload; as=script
+  Link: </app-f7a5fc4485c0e19febb6.js>; rel=preload; as=script
+  Link: </styles-5ea5574d2a7da3b20797.js>; rel=preload; as=script
+  Link: </1-aaab7363688d4f93c204.js>; rel=preload; as=script
+  Link: </2-87f46b71c7b0c1ab3d60.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-ca9585b7b0942f790425.js>; rel=preload; as=script
 /tag/gatsby
   Link: </webpack-runtime-644e9ed042ca601b2f3d.js>; rel=preload; as=script
   Link: </styles-5ea5574d2a7da3b20797.js>; rel=preload; as=script
