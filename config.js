@@ -31,7 +31,7 @@ module.exports = {
       email: 'nrevival@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'nrevival',
       rss: '#',
       vkontakte: '#',
       facebook: 'Belighty',
