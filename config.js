@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://nrevival.github.io/',
   title: 'A Fine Dining',
   subtitle: '이것은 나으 아무말 대잔치',
-  copyright: '2019 John Jonghyuck Park, powered by gatsby',
+  copyright: '',
   disqusShortname: 'nrevival',
   postsPerPage: 3,
   googleAnalyticsId: 'UA-142315289-1',
@@ -24,7 +24,7 @@ module.exports = {
     // }
   ],
   author: {
-    name: '박종혁John',
+    name: '박종혁_John',
     photo: '/profile.jpg',
     bio: '나님의 아무말 대잔치',
     contacts: {
@@ -33,7 +33,9 @@ module.exports = {
       twitter: '#',
       github: '#',
       rss: '#',
-      vkontakte: '#'
+      vkontakte: '#',
+      facebook: 'Belighty',
+      linkedin: 'jonghyuck-park-5b62437b'
     }
   }
 };

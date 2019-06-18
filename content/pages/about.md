@@ -1,12 +1,10 @@
 ---
-title: "About me"
+title: "나는 누구인가"
 template: "page"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+theme에서는 뭐라도 적어두는게 예쁜 것 같아서 몇 글자 적어보려고 따로 치우지 않았다. CV 같이 정리하는 것이 무난했겠지만 바로 옆 linkedin에 훨씬 상세한 이력이 있는데 굳이 여기까지 그런 내용을 적긴 그렇고, 또 나이 먹어서 100문100답 같은 것을 넣어 놓긴 민망하여 무언가 철학적인 답들을 적어가려고 한다.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+### 나의 삶의 목적은 무엇인가.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+In short, 3M USD.
