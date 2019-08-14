@@ -29,6 +29,9 @@ const getIcon = (name: string) => {
     case 'facebook':
       icon = ICONS.FACEBOOK;
       break;
+    case 'instagram':
+      icon = ICONS.INSTAGRAM;
+      break;
     default:
       icon = {};
       break;

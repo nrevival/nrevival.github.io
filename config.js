@@ -35,7 +35,8 @@ module.exports = {
       rss: '#',
       vkontakte: '#',
       facebook: 'Belighty',
-      linkedin: 'jonghyuck-park-5b62437b'
+      linkedin: 'jonghyuck-park-5b62437b',
+      instagram: 'john.nanim'
     }
   }
 };
