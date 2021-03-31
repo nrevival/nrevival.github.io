@@ -187,6 +187,14 @@ module.exports = {
       }
     },
     'gatsby-plugin-flow',
+    "gatsby-remark-embed-youtube",
+    "gatsby-remark-responsive-iframe",
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [`gatsby-remark-responsive-iframe`],
+      },
+    },
     {
       resolve: "gatsby-transformer-remark",
       options: {
